@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ad3bola
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Swift, C++, Python
+- 🌱 I’m currently learning Swift, C++, Python, Java
 - 💞️ I’m looking to collaborate on Small projects
 - 😄 Pronouns: He/Him
 
